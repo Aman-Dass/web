@@ -1,22 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to Peepal : let the God inside you awake
 
 You can use the [editor on GitHub](https://github.com/Aman-Dass/web/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+About the Founders of the Peepal
 
-# Header 1
-## Header 2
-### Header 3
+### Aman Kuamr Dass
+#### Co-founder of Peepal
+## Computer Engineer and Data Anylist.
 
-- Bulleted
-- List
+- peepal:A charity Website
+- 
 
 1. Numbered
 2. List
